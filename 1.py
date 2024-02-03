@@ -1,3 +1,3 @@
 a = 3
 b = 4
-print(4+3)
+print(a+b)
